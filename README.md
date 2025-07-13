@@ -20,10 +20,12 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 ---
 
 ## 📄 Main Files | 主なファイル
-
+- [English Paper 1 PDF](pdf/English_Paper1.pdf)
+- [English Paper 2 PDF](pdf/English_Paper2.pdf)
+- [日本語論文1 PDF](The Theory of Quasi-Dual Mappings and Fractal Reconstruction (Japanese Version).pdf)
 | File | Description |
 |------|-------------|
-| `The Theory of Quasi-Dual Mappings and Fractal Reconstruction (Japanese Version).pdf` | 日本語版の全文論文 |The Theory of Quasi-Dual Mappings and Fractal Reconstruction (Japanese Version).pdf
+| `The Theory of Quasi-Dual Mappings and Fractal Reconstruction (Japanese Version).pdf` | 日本語版の全文論文 |
 | `The Theory of the Lyndon Complex Spiral Phase.pdf` | English version of the full paper |
 | `Part II The Basic Structure of the Application of Quasi-dual Morphism (Introduction).pdf` | English version of the full paper |
 | `Part III Applications of Mathematical Theory of Dynamic Fractal Transformation to Various Fields (Applied Edition).pdf` | English version of the full paper |
