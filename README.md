@@ -22,7 +22,8 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 ## 📄 Main Files | 主なファイル
 - [English Paper 1 PDF](pdf/English_Paper1.pdf)
 - [English Paper 2 PDF](pdf/English_Paper2.pdf)
-- [日本語論文1 PDF](pdf/The Theory of Quasi-Dual Mappings and Fractal Reconstruction (Japanese Version).pdf)
+- [日本語論文1 PDF]()
+- 
 | File | Description |
 |------|-------------|
 | `The Theory of Quasi-Dual Mappings and Fractal Reconstruction (Japanese Version).pdf` | 日本語版の全文論文 |
