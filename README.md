@@ -1,5 +1,5 @@
 # 🧩 The Theory of the Lyndon Spiral Complex Phase  
-**by Honda　Hiroki**  
+**by Hiroki　Honda**  
 *Last updated: July 2025*
 
 ---
@@ -33,7 +33,7 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 ## 🔗 External Links | 外部リンク
 
 - [arXiv (English version)](https://arxiv.org/abs/XXXX.XXXXX) ← 後で差し替えてください
-- [Twitter/X account (リンドン螺旋複素位相)](https://x.com/youraccount) ← 任意
+- [Twitter/X account (リンドン螺旋複素位相)](https://x.com/@Lyndon_Spiral) 
 - [日本語紹介ページ（GitHub Pagesなど）](https://yourname.github.io) ← 任意
 
 ---
