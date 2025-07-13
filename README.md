@@ -1,0 +1,54 @@
+# 🧩 The Theory of the Lyndon Spiral Complex Phase  
+**by Honda　Hiroki**  
+*Last updated: July 2025*
+
+---
+
+## 📘 Overview | 概要
+
+This repository contains the English and Japanese versions of the paper  
+**"The Theory of Quasi-Dual Mappings and Fractal Reconstruction"**,  
+introducing a new framework to construct analytic spaces through  
+quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
+
+本リポジトリは、論考  
+**『類双対写像とフラクタル復元の理論』**（著：本田浩樹）の  
+英語版・日本語版・図解・用語集を収録しています。  
+リンドン縮約構造を中心に、類双対写像・トレース束・複素螺旋位相などに基づく、  
+新しい構成的解析空間の理論的枠組みを提案します。
+
+---
+
+## 📄 Main Files | 主なファイル
+
+| File | Description |
+|------|-------------|
+| `Lyndon_Spiral_Theory_English.pdf` | English version of the full paper |
+| `Lyndon_Spiral_Theory_Japanese.pdf` | 日本語版の全文論文 |
+| `Figures_Lyndon_Theory.pdf` | Visual diagrams and structural illustrations |
+| `Glossary_Lyndon_Theory.pdf` | 用語集・英日対訳付き（任意） |
+
+---
+
+## 🔗 External Links | 外部リンク
+
+- [arXiv (English version)](https://arxiv.org/abs/XXXX.XXXXX) ← 後で差し替えてください
+- [Twitter/X account (リンドン螺旋複素位相)](https://x.com/youraccount) ← 任意
+- [日本語紹介ページ（GitHub Pagesなど）](https://yourname.github.io) ← 任意
+
+---
+
+## 💡 Topics Covered | 主なテーマ
+
+- Quasi-dual mappings (類双対写像) and modular trace reduction  
+- Spiral complex topology based on Lyndon semigroups  
+- Constructive analytic spaces without gluing  
+- Riemann zeta reconstruction via fractal expansion  
+- Noncommutative Riemann surfaces and trace bundles
+
+---
+
+## 📬 Contact
+
+Feel free to contact me for discussion, translation, or collaboration.  
+議論や翻訳、共同研究に関心のある方は、お気軽にご連絡ください。
