@@ -22,7 +22,7 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 ## 📄 Main Files | 主なファイル
 - [English Paper 1 PDF](pdf/English_Paper1.pdf)
 - [English Paper 2 PDF](pdf/English_Paper2.pdf)
-- [日本語論文1 PDF](pdf/The_Theory_of_Quasi-Dual_Mappings_JP.pdf)
+- [日本語論文1 PDF](The_Theory_of_Quasi-Dual_Mappings_JP.pdf)
 - 
 | File | Description |
 |------|-------------|
