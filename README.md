@@ -20,17 +20,13 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [English Paper 1 PDF](pdf/English_Paper1.pdf)
-- [English Paper 2 PDF](pdf/English_Paper2.pdf)
-- [日本語論文1 PDF](The_Theory_of_Quasi-Dual_Mappings_JP.pdf)
-- 
-| File | Description |
-|------|-------------|
-| `The Theory of Quasi-Dual Mappings and Fractal Reconstruction (Japanese Version).pdf` | 日本語版の全文論文 |
-| `The Theory of the Lyndon Complex Spiral Phase.pdf` | English version of the full paper |
-| `Part II The Basic Structure of the Application of Quasi-dual Morphism (Introduction).pdf` | English version of the full paper |
-| `Part III Applications of Mathematical Theory of Dynamic Fractal Transformation to Various Fields (Applied Edition).pdf` | English version of the full paper |
-| `PartⅣDeformations of fractals and a generative approach to zeta１.pdf` | English version of the full paper |
+- [English Paper 1 PDF](The_Theory_of_the_Lyndon_Complex_Spiral_Phase.pdf) | English version of the full paper |
+- [English Paper 2 PDF](PartII_The_Basic_Structure_of_the_Application_of_Quasi-dual_Morphism_Intro.pdf) | English version of the full paper |
+- [English Paper 1 PDF](PartIII_Applications_of_Mathematical_Theory_of_Dynamic_Fractal_Transformation_to_Various_Fields_AppliedEdition.pdf) | English version of the full paper |
+- [English Paper 2 PDF](PartⅣ_Deformations_of_fractals_and_a_generative_approach_to_zeta.pdf) | English version of the full paper |
+- [日本語論文1 PDF](The_Theory_of_Quasi-Dual_Mappings_JP.pdf) | 日本語版の全文論文 |
+
+
 | `Figures_Lyndon_Theory.pdf` | Visual diagrams and structural illustrations |
 | `Glossary_Lyndon_Theory.pdf` | 用語集・英日対訳付き（任意） |
 
