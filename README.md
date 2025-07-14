@@ -1,6 +1,6 @@
 # 🧩 The Theory of the Lyndon Spiral Complex Phase  
 **by Hiroki　Honda**
-*Independent Researcher in Mathematical Structures*
+Independent Researcher Japanese in Mathematical Structures
 
 *Last updated: July 2025*
 
