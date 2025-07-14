@@ -1,5 +1,6 @@
 # 🧩 The Theory of the Lyndon Spiral Complex Phase  
 **by Hiroki　Honda**  
+*Independent Researcher in Mathematical Structures*
 *Last updated: July 2025*
 
 ---
@@ -18,6 +19,23 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 新しい構成的解析空間の理論的枠組みを提案します。
 
 ---
+📌 Note on Future Directions | 今後の展望
+
+This project is still evolving.  
+I'm currently examining how the divergence-control structures (based on genus 0, 1, ...)  
+may admit a differential formulation using quasi-dual mappings and modular compression.  
+These ideas are being developed in parallel as auxiliary notes.
+
+この理論は今後も発展を予定しており、  
+現在は、種数ごとの構造（0, 1, …）を用いた「発散制御の微分的理論」の可能性を検討中です。
+---
+
+📄 Paper Details  
+- Total length: 40+ pages (divided into 4 English PDFs + 1 Japanese PDF)  
+- Includes figures, diagrams, glossary, and explanatory notes  
+- Finalized: July 2025
+
+---
 
 ## 📄 Main Files | 主なファイル
 - [English Paper 1 PDF](PartⅡ_The_Theory_of_the_Lyndon_Complex_Spiral_Phase.pdf) | English version of the full paper |
@@ -26,7 +44,7 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 - [English Paper 4 PDF](PartⅣ_Deformations_of_fractals_and_a_generative_approach_to_zeta.pdf) | English version of the full paper |
 - [日本語論文1 PDF](The_Theory_of_Quasi-Dual_Mappings_and_Fractal_Reconstruction_Jp.pdf) | 日本語版の全文論文 |
 
-
+作業進行中
 | `Figures_Lyndon_Theory.pdf` | Visual diagrams and structural illustrations |
 | `Glossary_Lyndon_Theory.pdf` | 用語集・英日対訳付き（任意） |
 
