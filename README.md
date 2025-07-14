@@ -68,6 +68,9 @@ These ideas are being developed in parallel as auxiliary notes.
 - Noncommutative Riemann surfaces and trace bundles
 
 ---
+📄 License  
+This work is released under CC BY 4.0.  
+Attribution to the author is required when citing or adapting this work.
 
 ## 📬 Contact
 
