@@ -27,9 +27,11 @@ I'm currently examining how the divergence-control structures (based on genus 0,
 may admit a differential formulation using quasi-dual mappings and modular compression.  
 These ideas are being developed in parallel as auxiliary notes.  
 
+現在進行中です。
 
 この理論は今後も発展を予定しており、  
-現在は、種数ごとの構造（0, 1, …）を用いた「発散制御の微分的理論」の可能性を検討中です。  
+現在は、種数ごとの構造（0, 1, …）を用いた「発散制御の微分的理論」の可能性を検討中です。
+
 ---
 
 📄 Paper Details  
