@@ -19,6 +19,9 @@ quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
 リンドン縮約構造を中心に、類双対写像・トレース束・複素螺旋位相などに基づく、  
 新しい構成的解析空間の理論的枠組みを提案します。
 
+第１論文でのバージョン２では、基本的な誤りや誤読、
+また、構造的な定義の変更などを加え、より安定した位相構造であることが、
+分かるようになっています。
 ---
 📌 Note on Future Directions | 今後の展望
 
