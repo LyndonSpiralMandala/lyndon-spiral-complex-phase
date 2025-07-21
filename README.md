@@ -8,16 +8,25 @@ Independent Researcher in Mathematical Structures (Japan)
 
 ## 📘 Overview | 概要
 
-This repository contains the English and Japanese versions of the paper  
-**"The Theory of Quasi-Dual Mappings and Fractal Reconstruction"**,  
-introducing a new framework to construct analytic spaces through  
-quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
+## The Theory of Quasi-Dual Mappings and Fractal Reconstruction
+
+This repository contains the English and Japanese versions of the paper
+**"The Theory of Quasi-Dual Mappings and Fractal Reconstruction"**  
+by Hiroki Honda (本田　浩樹).
+
+It introduces a new constructive framework for analytic spaces
+based on quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
+
+In the Version 2 of the first paper, key errors and misunderstandings
+have been revised, and the topological structure has become clearer and more stable.
+
+---
 
 
 ## 類双対写像とフラクタル復元の理論
 
 本リポジトリには、  
-里中 友博（本田 浩樹）著  
+本田 浩樹　著  
 **『類双対写像とフラクタル復元の理論』**  
 の英語版・日本語版・図解・用語集が含まれています。
 
