@@ -62,8 +62,10 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第二論分一章/二章 PDF(NEW!)](Second_Paper,_Chapter_1_Theory_of_Lyndon_Construction_of_Symmetrical_Zero-Point_Structures_by_Divergent_Restoration(jp)15.pdf) | 日本語の第二論分第一章|
-- [日本語第二論分一章 1 PDF](Second_Paper,_Chapter_1_Theory_of_Lyndon_Construction_of_Symmetrical_Zero-Point_Structures_by_Divergent_Restoration(jp).pdf) | 日本語の第二論分第一章|
+- [日本語第3論文一章 PDF(NEW!)](2Third_Paper_Approaching_Non-Regular_Regions_via_the_Lyndon_Spiral_Complex_Phase.pdf
+) | 日本語の第三論文第一章|
+- [日本語第二論文一章/二章 PDF(NEW!)](Second_Paper,_Chapter_1_Theory_of_Lyndon_Construction_of_Symmetrical_Zero-Point_Structures_by_Divergent_Restoration(jp)15.pdf) | 日本語の第二論文第一章|
+- [日本語第二論文一章 1 PDF](Second_Paper,_Chapter_1_Theory_of_Lyndon_Construction_of_Symmetrical_Zero-Point_Structures_by_Divergent_Restoration(jp).pdf) | 日本語の第二論分第一章|
 - [日本語リンドン語入門編バージョン２(NEW!)](The_Theory_of_the_Lyndon_Complex_Spiral_Phase(jp)(ver2)2.pdf) |日本語リンドン語入門編バージョン２|
 - [English Paper 1 PDF](PartⅡ_The_Theory_of_the_Lyndon_Complex_Spiral_Phase.pdf) | English version of the full paper |
 - [English Paper 2 PDF](PartII_The_Basic_Structure_of_the_Application_of_Quasi-dual_Morphism_Intro.pdf) | English version of the full paper |
