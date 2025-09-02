@@ -25,8 +25,7 @@ have been revised, and the topological structure has become clearer and more sta
 
 ## 類双対写像とフラクタル復元の理論
 
-本リポジトリには、  
-本田 浩樹　著  
+本リポジトリには、   
 **『類双対写像とフラクタル復元の理論』**  
 の英語版・日本語版・図解・用語集が含まれています。
 
