@@ -1,5 +1,5 @@
 # 🧩 The Theory of the Lyndon Spiral Complex Phase  
-**by Hiroki　Honda**  
+ 
 Independent Researcher in Mathematical Structures (Japan)
 
 *Last updated: July 2025*
@@ -12,7 +12,7 @@ Independent Researcher in Mathematical Structures (Japan)
 
 This repository contains the English and Japanese versions of the paper
 **"The Theory of Quasi-Dual Mappings and Fractal Reconstruction"**  
-by Hiroki Honda (本田　浩樹).
+by Hiroki Honda.
 
 It introduces a new constructive framework for analytic spaces
 based on quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
