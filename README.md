@@ -9,34 +9,31 @@ Independent Researcher in Mathematical Structures (Japan)
 ## 📘 Overview | 概要
 
 ## The Theory of Quasi-Dual Mappings and Fractal Reconstruction
+by Hiroki Honda
 
-This repository contains the English and Japanese versions of the paper
-**"The Theory of Quasi-Dual Mappings and Fractal Reconstruction"**  
-by Hiroki Honda.
+This repository provides both English and Japanese versions of the paper.
+It forms the first step in the development of the Theory of Dynamic Transformation,
+a constructive framework connecting analytic spaces, trace bundles, and noncommutative geometry.
 
-It introduces a new constructive framework for analytic spaces
-based on quasi-dual mappings, trace bundles, and Lyndon spiral topologies.
-
-In the Version 2 of the first paper, key errors and misunderstandings
-have been revised, and the topological structure has become clearer and more stable.
+Version 2 revises the foundational structure of quasi-dual mappings,
+clarifying their topological stability and the fractal reconstruction principle
+that underlies later works such as Limit Analysis and Noncommutative Cosmology.
 
 ---
 
 
 ## 類双対写像とフラクタル復元の理論
+本田
 
-本リポジトリには、   
-**『類双対写像とフラクタル復元の理論』**  
-の英語版・日本語版・図解・用語集が含まれています。
+本リポジトリは、
+「動的変容の理論」体系の出発点としての第1論文
+『類双対写像とフラクタル復元の理論』の
+英語版・日本語版・図解・用語集を収録しています。
 
-リンドン縮約構造を中心に、  
-類双対写像・トレース束・複素螺旋位相を用いた  
-新しい構成的解析空間の枠組みを提案しています。
-
-第1論文のバージョン2では、  
-初期の誤り・誤読を修正し、  
-構造定義を見直したことで、  
-より安定した位相構造が明確になっています。
+類双対写像・トレース束・非可換幾何構造を用いて、
+解析空間を構成的に再構築する枠組みを提示します。
+第2版では、初期定義の見直しと誤差修正を行い、
+トポロジーの安定性と復元原理の普遍形を明確化しました。
 
 ---
 📌 Note on Future Directions | 今後の展望
