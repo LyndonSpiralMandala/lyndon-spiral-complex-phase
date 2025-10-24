@@ -61,11 +61,11 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第3論文六章 PDF(NEW!)](Chapter_6_of_the_Third_Paper.pdf | 日本語|
-- [日本語第3論文五章 PDF(NEW!)](Chapter_5_of_the_Third_Paper.pdf | 日本語|
-- [日本語第3論文四章 PDF(NEW!)](Chapter_4_of_the_Third_Paper.pdf | 日本語|
-- [日本語第3論文三章 PDF(NEW!)](Chapter_3_of_the_Third_Paper.pdf | 日本語|
-- [日本語第3論文二章 PDF(NEW!)](Chapter_2_of_the_Third_Paper.pdf | 日本語|
+- [日本語第3論文六章 PDF(NEW!)](Chapter_6_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文五章 PDF(NEW!)](Chapter_5_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文四章 PDF(NEW!)](Chapter_4_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文三章 PDF(NEW!)](Chapter_3_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文二章 PDF(NEW!)](Chapter_2_of_the_Third_Paper.pdf) | 日本語|
 - [日本語第3論文一章 PDF](2Third_Paper_Approaching_Non-Regular_Regions_via_the_Lyndon_Spiral_Complex_Phase.pdf
 ) | 日本語の第三論文第一章|
 - [日本語第二論文一章/二章 PDF](Second_Paper,_Chapter_1_Theory_of_Lyndon_Construction_of_Symmetrical_Zero-Point_Structures_by_Divergent_Restoration(jp)15.pdf) | 日本語の第二論文第一章|
