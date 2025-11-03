@@ -58,7 +58,7 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第4論文一章 動的ゼータの理論　PDF(Chapter_1_of_the_Fourth_Paper) | 日本語|
+- [日本語第4論文一章 動的ゼータの理論　PDF(Chapter_1_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第3論文六章 非可換極限解析　PDF(NEW!)](Chapter_6_of_the_Third_Paper.pdf) | 日本語|
 - [日本語第3論文五章 フラクタル宇宙論　PDF(NEW!)](Chapter_5_of_the_Third_Paper.pdf) | 日本語|
 - [日本語第3論文四章 非可換類体論　PDF(NEW!)](Chapter_4_of_the_Third_Paper.pdf) | 日本語|
