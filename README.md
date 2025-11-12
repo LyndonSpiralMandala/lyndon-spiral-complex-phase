@@ -58,6 +58,7 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
+- [日本語第4論文三章　超リーマン面上の基礎解析　PDF](Chapter_3_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第4論文二章　非可換微分ガロア理論　PDF](Chapter_2_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第4論文一章 動的ゼータの理論　PDF](Chapter_1_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第3論文六章 非可換極限解析　PDF(NEW!)](Chapter_6_of_the_Third_Paper.pdf) | 日本語|
