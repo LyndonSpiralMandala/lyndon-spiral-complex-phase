@@ -58,9 +58,9 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第5論文三章　超版 Fractal explicit formula　PDF](Riemann_Zeta_Paper_3.pdf)| 日本語|
-- [日本語第5論文三章　橋本・志村リフトによるリーマンゼータの構成　PDF](Riemann_Zeta_Paper_2.pdf)| 日本語|
-- [日本語第5論文三章　グロタンディーク・黒川の路線に寄るF1的リーマンゼータの構築　PDF](Riemann_Zeta_Paper_1.pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF](Riemann_Zeta_Paper_3.pdf)| 日本語|
+- [日本語第5論文二　橋本・志村リフトによるリーマンゼータの構成　PDF](Riemann_Zeta_Paper_2.pdf)| 日本語|
+- [日本語第5論文一　グロタンディーク・黒川の路線に寄るF1的リーマンゼータの構築　PDF](Riemann_Zeta_Paper_1.pdf)| 日本語|
 - [日本語第4論文三章　超リーマン面上の基礎解析　PDF](Chapter_3_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第4論文二章　非可換微分ガロア理論　PDF](Chapter_2_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第4論文一章 動的ゼータの理論　PDF](Chapter_1_of_the_Fourth_Paper.pdf)| 日本語|
