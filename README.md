@@ -58,17 +58,17 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF](Riemann_Zeta_Paper_3.pdf)| 日本語|
-- [日本語第5論文二　橋本・志村リフトによるリーマンゼータの構成　PDF](Riemann_Zeta_Paper_2.pdf)| 日本語|
-- [日本語第5論文一　グロタンディーク・黒川の路線に寄るF1的リーマンゼータの構築　PDF](Riemann_Zeta_Paper_1.pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)(Riemann_Zeta_Paper_3.pdf)| 日本語|
+- [日本語第5論文二　橋本・志村リフトによるリーマンゼータの構成　PDF(NEW!)](Riemann_Zeta_Paper_2.pdf)| 日本語|
+- [日本語第5論文一　グロタンディーク・黒川の路線に寄るF1的リーマンゼータの構築　PDF(NEW!)](Riemann_Zeta_Paper_1.pdf)| 日本語|
 - [日本語第4論文三章　超リーマン面上の基礎解析　PDF](Chapter_3_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第4論文二章　非可換微分ガロア理論　PDF](Chapter_2_of_the_Fourth_Paper.pdf)| 日本語|
 - [日本語第4論文一章 動的ゼータの理論　PDF](Chapter_1_of_the_Fourth_Paper.pdf)| 日本語|
-- [日本語第3論文六章 非可換極限解析　PDF(NEW!)](Chapter_6_of_the_Third_Paper.pdf) | 日本語|
-- [日本語第3論文五章 フラクタル宇宙論　PDF(NEW!)](Chapter_5_of_the_Third_Paper.pdf) | 日本語|
-- [日本語第3論文四章 非可換類体論　PDF(NEW!)](Chapter_4_of_the_Third_Paper.pdf) | 日本語|
-- [日本語第3論文三章 理想スペクトル多様体の理論　PDF(NEW!)](Chapter_3_of_the_Third_Paper.pdf) | 日本語|
-- [日本語第3論文二章　普遍安定化作用素の理論 PDF(NEW!)](Chapter_2_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文六章 非可換極限解析　PDF](Chapter_6_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文五章 フラクタル宇宙論　PDF](Chapter_5_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文四章 非可換類体論　PDF](Chapter_4_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文三章 理想スペクトル多様体の理論　PDF](Chapter_3_of_the_Third_Paper.pdf) | 日本語|
+- [日本語第3論文二章　普遍安定化作用素の理論 PDF](Chapter_2_of_the_Third_Paper.pdf) | 日本語|
 - [日本語第3論文一章 PDF](2Third_Paper_Approaching_Non-Regular_Regions_via_the_Lyndon_Spiral_Complex_Phase.pdf
 ) | 日本語の第三論文第一章|
 - [日本語第二論文一章/二章 PDF](Second_Paper,_Chapter_1_Theory_of_Lyndon_Construction_of_Symmetrical_Zero-Point_Structures_by_Divergent_Restoration(jp)15.pdf) | 日本語の第二論文第一章|
