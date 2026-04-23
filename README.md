@@ -56,7 +56,7 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(1).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_(1).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(2).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(3).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(4).pdf)| 日本語|
