@@ -101,7 +101,6 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　2-圏フラクタルイデアル理論とランク構造　PDF(NEW!)](paper_27.pdf)| 日本語|
 - [日本語第6論文　2-圏生成子の理論における、フラクタルイデアル理論　PDF(NEW!)](paper_28.pdf)| 日本語|
 - [日本語第6論文　半群イデアル拡大の理論と円・螺旋分解　PDF(NEW!)](paper_30.pdf)| 日本語|
-- [日本語第6論文　解析接続と自己参照測度と障害構造　PDF(NEW!)](paper_31.pdf)| 日本語|
 - [日本語第6論文　絶対空間上の連分数的構造　PDF(NEW!)](paper_32.pdf)| 日本語|
 - [日本語第6論文　カントール非正則と障害理論　PDF(NEW!)](paper_33.pdf)| 日本語|
 - [日本語第6論文　最小発散定理・踊り場・フラクタル・準連結　PDF(NEW!)](paper_34.pdf)| 日本語|
