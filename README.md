@@ -56,7 +56,7 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-フラクタル準連結空間理論・フラクタル微分論
+##フラクタル準連結空間理論・フラクタル微分論
 - [日本語第6論文　忘却基本定理と非可換性とローレンツ構造の最小構成　PDF(NEW!)](paper_2.pdf)| 日本語|
 - [日本語第6論文　Leibniz則とロピタルの定理からの準連結性の構成とフラクタル空間　PDF(NEW!)](paper_4.pdf)| 日本語|
 - [日本語第6論文　準連結空間＝擬距離空間＝フラクタル＝フラクタル微分空間　PDF(NEW!)](paper_9.pdf)| 日本語|
