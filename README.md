@@ -56,57 +56,58 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_1.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_2.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_3.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_4.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_5.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_6.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_7.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_8.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_9.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_10.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_11.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_12.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_13.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_14.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_15.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_16.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_17.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_18.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_19.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_20.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_21.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_23.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_24.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_25.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_26.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_27.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_28.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_29.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_30.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_31.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_32.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_33.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_34.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_35.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_36.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_37.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_38.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_39.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_40.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_41.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_42.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_43.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_44.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_45.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_46.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_47.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_48.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_49.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_51.pdf)| 日本語|
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_52.pdf)| 日本語|
+- [日本語第6論文　準連結的フラクタル空間と弦理論　PDF(NEW!)](paper_1.pdf)| 日本語|
+- [日本語第6論文　忘却基本定理と非可換性とローレンツ構造の最小構成　PDF(NEW!)](paper_2.pdf)| 日本語|
+- [日本語第6論文　証明多様体の基礎理論　PDF(NEW!)](paper_3.pdf)| 日本語|
+- [日本語第6論文　Leibniz則とロピタルの定理からの準連結性の構成とフラクタル空間　PDF(NEW!)](paper_4.pdf)| 日本語|
+- [日本語第6論文　分類定理と分数微分　PDF(NEW!)](paper_5.pdf)| 日本語|
+- [日本語第6論文　ゼータ構成論における具体的計算例　PDF(NEW!)](paper_6.pdf)| 日本語|
+- [日本語第6論文　まどろみ存在定理について　PDF(NEW!)](paper_7.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の概念の整理　PDF(NEW!)](paper_8.pdf)| 日本語|
+- [日本語第6論文　準連結空間＝擬距離空間＝フラクタル＝フラクタル微分空間　PDF(NEW!)](paper_9.pdf)| 日本語|
+- [日本語第6論文　宇宙際タイヒミュラーの論理構造の証明多様体理論による読み替え　PDF(NEW!)](paper_10.pdf)| 日本語|
+- [日本語第6論文　導来圏におけるゼータの構成の続きかつ技術的補足　PDF(NEW!)](paper_11.pdf)| 日本語|
+- [日本語第6論文　非線形螺旋作用素による高次モジュラリティと障害構造　PDF(NEW!)](paper_12.pdf)| 日本語|
+- [日本語第6論文　半群イデアルフラクタル準連結位相の次元階層論　PDF(NEW!)](paper_13.pdf)| 日本語|
+- [日本語第6論文　解析接続と自己参照測度と障害構造　PDF(NEW!)](paper_14.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の概念の整理　PDF(NEW!)](paper_15.pdf)| 日本語|
+- [日本語第6論文　準連結構造におけるIUT構造　PDF(NEW!)](paper_16.pdf)| 日本語|
+- [日本語第6論文　導来圏におけるゼータの構成　PDF(NEW!)](paper_17.pdf)| 日本語|
+- [日本語第6論文　導来圏におけるゼータの構成の続きかつ技術的補足　PDF(NEW!)](paper_18.pdf)| 日本語|
+- [日本語第6論文　非線形螺旋作用素による高次モジュラリティと障害構造　PDF(NEW!)](paper_19.pdf)| 日本語|
+- [日本語第6論文　無限グラフとループ・ツリー混合フラクタル　PDF(NEW!)](paper_20.pdf)| 日本語|
+- [日本語第6論文　不変核理論と確率的逆元　PDF(NEW!)](paper_21.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　フラクタルカスプ上のフレドホルム行列における臨界線　PDF(NEW!)](paper_23.pdf)| 日本語|
+- [日本語第6論文　フラクタルカスプと半群的イデアル理論　PDF(NEW!)](paper_24.pdf)| 日本語|
+- [日本語第6論文　準連結的幾何と絶対空間論　PDF(NEW!)](paper_25.pdf)| 日本語|
+- [日本語第6論文　多値的ネーター変形と準連結性　PDF(NEW!)](paper_26.pdf)| 日本語|
+- [日本語第6論文　2-圏フラクタルイデアル理論とランク構造　PDF(NEW!)](paper_27.pdf)| 日本語|
+- [日本語第6論文　2-圏生成子の理論における、フラクタルイデアル理論　PDF(NEW!)](paper_28.pdf)| 日本語|
+- [日本語第6論文　非可換非周期行列理論の入門的メモ　PDF(NEW!)](paper_29.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の理論と円・螺旋分解　PDF(NEW!)](paper_30.pdf)| 日本語|
+- [日本語第6論文　解析接続と自己参照測度と障害構造　PDF(NEW!)](paper_31.pdf)| 日本語|
+- [日本語第6論文　絶対空間上の連分数的構造　PDF(NEW!)](paper_32.pdf)| 日本語|
+- [日本語第6論文　カントール非正則と障害理論　PDF(NEW!)](paper_33.pdf)| 日本語|
+- [日本語第6論文　最小発散定理・踊り場・フラクタル・準連結　PDF(NEW!)](paper_34.pdf)| 日本語|
+- [日本語第6論文　絶対空間上の連分数的構造と次元階層論の内在的導出　PDF(NEW!)](paper_35.pdf)| 日本語|
+- [日本語第6論文　絶対空間上の連分数的構造と次元階層論の内在的導出　PDF(NEW!)](paper_36.pdf)| 日本語|
+- [日本語第6論文　忘却構造の非可換性と臨界次元　PDF(NEW!)](paper_37.pdf)| 日本語|
+- [日本語第6論文　非可換忘却構造の安定性とフラクタル微分論　PDF(NEW!)](paper_38.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大構造の中の次元階層論とまどろみ存在定理　PDF(NEW!)](paper_39.pdf)| 日本語|
+- [日本語第6論文　半群イデアル的次元階層論と約数和周期論　PDF(NEW!)](paper_40.pdf)| 日本語|
+- [日本語第6論文　数論的関数について　PDF(NEW!)](paper_41.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の哲学　PDF(NEW!)](paper_42.pdf)| 日本語|
+- [日本語第6論文　２-圏的完全数ゼータ理論　PDF(NEW!)](paper_43.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大的次元階層論と非忘却持ち上げ　PDF(NEW!)](paper_44.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大的次元階層論と非忘却持ち上げの補足　PDF(NEW!)](paper_45.pdf)| 日本語|
+- [日本語第6論文　中心不在性とＲＧ　PDF(NEW!)](paper_46.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の概念の基礎論的考察　PDF(NEW!)](paper_47.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の基礎概念の展開　PDF(NEW!)](paper_48.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の基礎概念の展開と非正則性　PDF(NEW!)](paper_49.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の基礎概念の基礎的構築　PDF(NEW!)](paper_50.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の基礎概念とグラフ変形　PDF(NEW!)](paper_51.pdf)| 日本語|
+- [日本語第6論文　半群グラフイデアル拡大と障害理論　PDF(NEW!)](paper_52.pdf)| 日本語|
 
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF](Riemann_Zeta_Paper_3.pdf)| 日本語|
 - [日本語第5論文二　橋本・志村リフトによるリーマンゼータの構成　PDF](Riemann_Zeta_Paper_2.pdf)| 日本語|
