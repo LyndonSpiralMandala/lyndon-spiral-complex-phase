@@ -63,10 +63,8 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　分類定理と分数微分　PDF(NEW!)](paper_5.pdf)| 日本語|
 - [日本語第6論文　ゼータ構成論における具体的計算例　PDF(NEW!)](paper_6.pdf)| 日本語|
 - [日本語第6論文　まどろみ存在定理について　PDF(NEW!)](paper_7.pdf)| 日本語|
-- [日本語第6論文　半群イデアル拡大の概念の整理　PDF(NEW!)](paper_8.pdf)| 日本語|
 - [日本語第6論文　準連結空間＝擬距離空間＝フラクタル＝フラクタル微分空間　PDF(NEW!)](paper_9.pdf)| 日本語|
 - [日本語第6論文　宇宙際タイヒミュラーの論理構造の証明多様体理論による読み替え　PDF(NEW!)](paper_10.pdf)| 日本語|
-- [日本語第6論文　導来圏におけるゼータの構成の続きかつ技術的補足　PDF(NEW!)](paper_11.pdf)| 日本語|
 - [日本語第6論文　非線形螺旋作用素による高次モジュラリティと障害構造　PDF(NEW!)](paper_12.pdf)| 日本語|
 - [日本語第6論文　半群イデアルフラクタル準連結位相の次元階層論　PDF(NEW!)](paper_13.pdf)| 日本語|
 - [日本語第6論文　解析接続と自己参照測度と障害構造　PDF(NEW!)](paper_14.pdf)| 日本語|
@@ -90,7 +88,6 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　絶対空間上の連分数的構造　PDF(NEW!)](paper_32.pdf)| 日本語|
 - [日本語第6論文　カントール非正則と障害理論　PDF(NEW!)](paper_33.pdf)| 日本語|
 - [日本語第6論文　最小発散定理・踊り場・フラクタル・準連結　PDF(NEW!)](paper_34.pdf)| 日本語|
-- [日本語第6論文　絶対空間上の連分数的構造と次元階層論の内在的導出　PDF(NEW!)](paper_35.pdf)| 日本語|
 - [日本語第6論文　絶対空間上の連分数的構造と次元階層論の内在的導出　PDF(NEW!)](paper_36.pdf)| 日本語|
 - [日本語第6論文　忘却構造の非可換性と臨界次元　PDF(NEW!)](paper_37.pdf)| 日本語|
 - [日本語第6論文　非可換忘却構造の安定性とフラクタル微分論　PDF(NEW!)](paper_38.pdf)| 日本語|
