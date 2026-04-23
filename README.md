@@ -94,7 +94,7 @@ These ideas are being developed in parallel as auxiliary notes.
 ##半群イデアル拡大の理論
 - [日本語第6論文　半群イデアルフラクタル準連結位相の次元階層論　PDF(NEW!)](paper_13.pdf)| 日本語|
 - [日本語第6論文　解析接続と自己参照測度と障害構造　PDF(NEW!)](paper_14.pdf)| 日本語|
-- [日本語第6論文　半群イデアル拡大の概念の整理　PDF(NEW!)](paper_15.pdf)| 日本語|
+- [日本語第6論文　半群イデアル拡大の概念の整理　PDF(NEW!)](paper_15.pdf)| 日本語|→BSD各項
 - [日本語第6論文　準連結構造におけるIUT構造　PDF(NEW!)](paper_16.pdf)| 日本語|
 - [日本語第6論文　無限グラフとループ・ツリー混合フラクタル　PDF(NEW!)](paper_20.pdf)| 日本語|
 - [日本語第6論文　準連結的幾何と絶対空間論　PDF(NEW!)](paper_25.pdf)| 日本語|
