@@ -56,55 +56,55 @@ These ideas are being developed in parallel as auxiliary notes.
 ---
 
 ## 📄 Main Files | 主なファイル
-- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper_(1).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(1).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(2).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(3).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(4).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(5).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(6).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(7).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(8).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(9).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(10).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(11).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(12).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(13).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(14).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(15).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(16).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(17).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(18).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(19).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(20).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(21).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(22).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(23).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(24).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(25).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(26).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(27).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(28).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(29).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(30).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(31).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(32).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(33).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(34).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(35).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(36).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(37).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(38).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(39).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(40).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(5).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(6).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(7).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(8).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(9).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(10).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(11).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(12).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(13).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(14).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(15).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(16).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(17).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(18).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(19).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(20).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(21).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(22).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(23).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(24).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(25).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(26).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(27).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(28).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(29).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(30).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(31).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(32).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(33).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(34).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(35).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(36).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(37).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(38).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(39).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(40).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(41).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(42).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(43).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(44).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(45).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(46).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(47).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(48).pdf)| 日本語|
--[日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(49).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(45).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(46).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(47).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(48).pdf)| 日本語|
+- [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(49).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(51).pdf)| 日本語|
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF(NEW!)](paper(52).pdf)| 日本語|
 
