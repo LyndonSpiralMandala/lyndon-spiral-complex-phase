@@ -120,7 +120,7 @@ These ideas are being developed in parallel as auxiliary notes.
 ##その他
 - [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
 
-
+##初期論文
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF](Riemann_Zeta_Paper_3.pdf)| 日本語|
 - [日本語第5論文二　橋本・志村リフトによるリーマンゼータの構成　PDF](Riemann_Zeta_Paper_2.pdf)| 日本語|
 - [日本語第5論文一　グロタンディーク・黒川の路線に寄るF1的リーマンゼータの構築　PDF](Riemann_Zeta_Paper_1.pdf)| 日本語|
