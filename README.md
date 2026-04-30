@@ -26,7 +26,7 @@ that underlies later works such as Limit Analysis and Noncommutative Cosmology.
 
 
 本リポジトリは、「動的変容の理論」体系の出発点となる第1論文
-『類双対写像とフラクタル復元の理論』の資料を収録する。
+『類双対写像とフラクタル復元の理論』～の資料を収録する。
 
 本理論では、類双対写像・トレース束・非可換構造を基礎として、
 解析空間を構成的に再構築する枠組みを与える。
@@ -121,6 +121,18 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　半群グラフイデアル拡大と障害理論　PDF(NEW!)](paper_52.pdf)| 日本語|
 
 ##その他
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+
+##投稿資料
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+-  [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+-  [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
 - [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
 
 ##初期論文
