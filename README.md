@@ -26,7 +26,7 @@ that underlies later works such as Limit Analysis and Noncommutative Cosmology.
 
 
 本リポジトリは、「動的変容の理論」体系の出発点となる第1論文
-『類双対写像とフラクタル復元の理論』～の資料を収録する。
+『類双対写像とフラクタル復元の理論』～第７論文の資料を収録する。
 
 本理論では、類双対写像・トレース束・非可換構造を基礎として、
 解析空間を構成的に再構築する枠組みを与える。
@@ -69,6 +69,12 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　中心不在性とＲＧ　PDF(NEW!)](paper_46.pdf)| 日本語|
 - [日本語第6論文　不変核理論と確率的逆元　PDF(NEW!)](paper_21.pdf)| 日本語|
 - [日本語第6論文　多値的ネーター変形と準連結性　PDF(NEW!)](paper_26.pdf)| 日本語|
+#2
+- [日本語第6論文　準連結構造と平均化写像　PDF(NEW!)](paper2_1.pdf)| 日本語|
+- [日本語第6論文　忘却幾何の中としての、量子重力理論や情報多様体　PDF(NEW!)](paper2_4.pdf)| 日本語|
+- [日本語第6論文　準連結空間＝擬距離空間＝フラクタル＝フラクタル微分空間　PDF(NEW!)](paper2_3.pdf)| 日本語|
+- [日本語第6論文　準連結構造と忘却基本定理からの物理的安定構造　PDF(NEW!)](paper2_5.pdf)| 日本語|
+- [日本語第6論文　準連結構造の応用例　PDF(NEW!)](paper2_6.pdf)| 日本語|
 
 ##螺旋作用素と回転モジュラー
 - [日本語第6論文　非線形螺旋作用素による高次モジュラリティと障害構造　PDF(NEW!)](paper_12.pdf)| 日本語|
@@ -119,6 +125,8 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　半群イデアル拡大の基礎概念の基礎的構築　PDF(NEW!)](paper_50.pdf)| 日本語|
 - [日本語第6論文　半群イデアル拡大の基礎概念とグラフ変形　PDF(NEW!)](paper_51.pdf)| 日本語|
 - [日本語第6論文　半群グラフイデアル拡大と障害理論　PDF(NEW!)](paper_52.pdf)| 日本語|
+#2
+- [日本語第6論文　半群イデアル拡大理論の補足　PDF(NEW!)](paper2_2.pdf)| 日本語|
 
 ##その他
 - [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
