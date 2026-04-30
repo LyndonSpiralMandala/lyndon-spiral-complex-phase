@@ -73,7 +73,7 @@ These ideas are being developed in parallel as auxiliary notes.
 #2
 - [日本語第6論文　準連結構造と平均化写像　PDF(NEW!)](paper2_1.pdf)| 日本語|
 - [日本語第6論文　忘却幾何の中としての、量子重力理論や情報多様体　PDF(NEW!)](paper2_4.pdf)| 日本語|
-- [日本語第6論文　準連結空間＝擬距離空間＝フラクタル＝フラクタル微分空間　PDF(NEW!)](paper2_3.pdf)| 日本語|
+- [日本語第6論文　準連結的フラクタルと解析接続構造　PDF(NEW!)](paper2_3.pdf)| 日本語|
 - [日本語第6論文　準連結構造と忘却基本定理からの物理的安定構造　PDF(NEW!)](paper2_5.pdf)| 日本語|
 - [日本語第6論文　準連結構造の応用例　PDF(NEW!)](paper2_6.pdf)| 日本語|
 
