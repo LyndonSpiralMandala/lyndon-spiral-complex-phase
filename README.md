@@ -69,6 +69,7 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　中心不在性とＲＧ　PDF(NEW!)](paper_46.pdf)| 日本語|
 - [日本語第6論文　不変核理論と確率的逆元　PDF(NEW!)](paper_21.pdf)| 日本語|
 - [日本語第6論文　多値的ネーター変形と準連結性　PDF(NEW!)](paper_26.pdf)| 日本語|
+- 
 #2
 - [日本語第6論文　準連結構造と平均化写像　PDF(NEW!)](paper2_1.pdf)| 日本語|
 - [日本語第6論文　忘却幾何の中としての、量子重力理論や情報多様体　PDF(NEW!)](paper2_4.pdf)| 日本語|
@@ -125,6 +126,7 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　半群イデアル拡大の基礎概念の基礎的構築　PDF(NEW!)](paper_50.pdf)| 日本語|
 - [日本語第6論文　半群イデアル拡大の基礎概念とグラフ変形　PDF(NEW!)](paper_51.pdf)| 日本語|
 - [日本語第6論文　半群グラフイデアル拡大と障害理論　PDF(NEW!)](paper_52.pdf)| 日本語|
+- 
 #2
 - [日本語第6論文　半群イデアル拡大理論の補足　PDF(NEW!)](paper2_2.pdf)| 日本語|
 
