@@ -124,16 +124,21 @@ These ideas are being developed in parallel as auxiliary notes.
 - [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
 
 ##投稿資料
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
--  [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
--  [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
-- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](paper_22.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_1.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_2.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_3.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_4.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_5.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_6.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_7.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_8.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_9.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_10.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_11.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_12.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_13.pdf)| 日本語|
+- [日本語第6論文　サーストン分類への最小構成　PDF(NEW!)](file_14.pdf)| 日本語|
+
 
 ##初期論文
 - [日本語第5論文補足　超版 Fractal explicit formula　PDF](Riemann_Zeta_Paper_3.pdf)| 日本語|
